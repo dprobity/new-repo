@@ -1,6 +1,6 @@
 #DEMO
 
+I just edited
 
 
-
-Some description about the project
+Some description of the project
